@@ -6,7 +6,7 @@ Website desenvolvido para a Archetti Bordados com o objetivo de apresentar seus 
 
 <img src="imagens/leia.jpeg" alt="Preview do projeto" width="100%"/>
 
-<br>
+</div>
 
 ## ✨ Funcionalidades
 
