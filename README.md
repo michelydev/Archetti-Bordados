@@ -4,7 +4,7 @@
 
 Website desenvolvido para a Archetti Bordados com o objetivo de apresentar seus serviços, destacar trabalhos realizados e facilitar o contato com clientes por meio de uma interface moderna, responsiva e intuitiva.
 
-<img src="imagens/leia.jpeg" alt="Preview do projeto" width="50%"/>
+<img src="imagens/leia.jpeg" alt="Preview do projeto" width="80%"/>
 
 </div>
 
