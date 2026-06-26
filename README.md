@@ -1,6 +1,10 @@
+<div align="center">
+
 # 🧵 Archetti Bordados
 
 Website desenvolvido para a Archetti Bordados com o objetivo de apresentar seus serviços, destacar trabalhos realizados e facilitar o contato com clientes por meio de uma interface moderna, responsiva e intuitiva.
+
+<img src="./assets/readme/leia.jpeg" alt="Preview do projeto" width="100%"/>
 
 ## ✨ Funcionalidades
 
