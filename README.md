@@ -18,8 +18,6 @@ Website desenvolvido para a Archetti Bordados com o objetivo de apresentar seus 
 * HTML5
 * CSS3
 * JavaScript
-* Git
-* GitHub
 * Visual Studio Code
 
 ## 🎯 Objetivo do Projeto
